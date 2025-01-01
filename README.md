@@ -1,0 +1,1 @@
+This repsitory is a part of my internship tasks at Prodigy infotech, it is a java program that encrypts and decrypts images using pixel manipulation by applying a basic matematical operation to each pixel of the image.
